@@ -1,2 +1,7 @@
 # LetsUpgrade-FS-Web-Dev-Jan-22
-This a demo repo
+This is a calculator project
+
+- Add
+- Substract
+- Multiply
+- Division
