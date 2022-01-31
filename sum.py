@@ -1,6 +1,6 @@
-def sum(a, b):
-    return a+b
+def sum(c, d):
+    return c+d
 
-a = 5
-b = 7
-print(sum(a, b))
+c = 5
+d = 7
+print(sum(c, d))
